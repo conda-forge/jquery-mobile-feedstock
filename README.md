@@ -18,12 +18,15 @@ easily themeable design.
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/jquery-mobile-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/jquery-mobile-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/jquery-mobile-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/jquery-mobile-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/jquery-mobile/badges/version.svg)](https://anaconda.org/conda-forge/jquery-mobile)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/jquery-mobile/badges/downloads.svg)](https://anaconda.org/conda-forge/jquery-mobile)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-jquery--mobile-green.svg)](https://anaconda.org/conda-forge/jquery-mobile) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/jquery-mobile.svg)](https://anaconda.org/conda-forge/jquery-mobile) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/jquery-mobile.svg)](https://anaconda.org/conda-forge/jquery-mobile) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/jquery-mobile.svg)](https://anaconda.org/conda-forge/jquery-mobile) |
 
 Installing jquery-mobile
 ========================
